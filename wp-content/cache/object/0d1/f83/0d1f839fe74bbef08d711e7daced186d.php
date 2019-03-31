@@ -1,0 +1,1 @@
+z>°X<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_dont_muck";a:1:{i:0;s:1:"1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1486759666:1";}s:17:"_wp_page_template";a:1:{i:0;s:34:"page-templates/page_front-page.php";}s:32:"_jetpack_dont_email_post_to_subs";a:1:{i:0;s:1:"1";}}}

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en-GB" ng-app="mpixelsApp">
+<head><link rel="stylesheet" type="text/css" href="http://mellowpixels.com/wp-content/cache/minify/77431.css" media="all" />
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://mellowpixels.com/xmlrpc.php">
+
+<title>Mellowpixels &#8211; Web and Graphic Design</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mellowpixels &raquo; Feed" href="http://mellowpixels.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mellowpixels &raquo; Comments Feed" href="http://mellowpixels.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mellowpixels.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+<link rel='stylesheet' id='sydney-body-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600&#038;ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600&#038;ver=4.6.3' type='text/css' media='all' />
+
+<style id='sydney-style-inline-css' type='text/css'>
+.site-title { font-size:32px; }
+.site-description { font-size:16px; }
+#mainnav ul li a { font-size:14px; }
+h1 { font-size:52px; }
+h2 { font-size:42px; }
+h3 { font-size:32px; }
+h4 { font-size:25px; }
+h5 { font-size:20px; }
+h6 { font-size:18px; }
+body { font-size:14px; }
+.header-image { background-size:cover;}
+.header-image { height:300px; }
+.site-title a, .site-title a:hover { color:#ffffff}
+.site-description { color:#ffffff}
+#mainnav ul li a, #mainnav ul li::before { color:#ffffff}
+#mainnav .sub-menu li a { color:#ffffff}
+#mainnav .sub-menu li a { background:#1c1c1c}
+.text-slider .maintitle, .text-slider .subtitle { color:#ffffff}
+body { color:#767676}
+#secondary { background-color:#ffffff}
+#secondary, #secondary a, #secondary .widget-title { color:#767676}
+.footer-widgets { background-color:#252525}
+.overlay { background-color:#000000}
+
+</style>
+
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='sydney-ie9-css'  href='http://mellowpixels.com/wp-content/themes/MellowPixels_2/css/ie9.css?ver=4.6.3' type='text/css' media='all' />
+<![endif]-->
+
+<script type="text/javascript" src="http://mellowpixels.com/wp-content/cache/minify/df983.js"></script>
+
+
+<script type='text/javascript' src='https://code.angularjs.org/1.6.1/angular.min.js?ver=4.6.3'></script>
+<script type="text/javascript" src="http://mellowpixels.com/wp-content/cache/minify/4ed63.js"></script>
+
+
+<link rel='https://api.w.org/' href='http://mellowpixels.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mellowpixels.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mellowpixels.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.3" />
+<link rel="canonical" href="http://mellowpixels.com/" />
+<link rel='shortlink' href='http://wp.me/P8nYxO-o' />
+<link rel="alternate" type="application/json+oembed" href="http://mellowpixels.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmellowpixels.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://mellowpixels.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmellowpixels.com%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="title" content="homepage | Mellowpixels" />
+<meta name="description" content="Latest Web Sites Allianz Website Ownster Website Fitaholic Online Store Website Zanna Arts Website DimLen Website Food up front Website Latest Animation There is a city animation &quot;Clean Chute Solution&quot;. Info Animation. BBC Documentary. Animation. &lt;!-- Latest Logo Design Logo compilation Latest Animation There is a city animation --&gt;" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mellowpixels" />
+<meta property="og:description" content="Web and Graphic Design" />
+<meta property="og:url" content="http://mellowpixels.com/" />
+<meta property="og:site_name" content="Mellowpixels" />
+<meta property="og:image" content="http://mellowpixels.com/wp-content/uploads/2016/12/zannarts.jpg" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="600" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" href="http://mellowpixels.com/wp-content/uploads/2017/01/cropped-favicon_white_bg-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://mellowpixels.com/wp-content/uploads/2017/01/cropped-favicon_white_bg-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://mellowpixels.com/wp-content/uploads/2017/01/cropped-favicon_white_bg-180x180.png" />
+<meta name="msapplication-TileImage" content="http://mellowpixels.com/wp-content/uploads/2017/01/cropped-favicon_white_bg-270x270.png" />
+</head>
+
+<body class="home page page-id-24 page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php">
+<!-- <div class="preloader">
+    <div class="spinner">
+        <div class="pre-bounce1"></div>
+        <div class="pre-bounce2"></div>
+    </div>
+</div>	 -->
+<!-- <div class="whole-page-wrap"> -->
+<div id="page" class="hfeed site" ng-controller="animationController">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-wrap">
+            <div class="container">
+                <div class="row">
+					<div class="col-md-4 col-sm-8 col-xs-10">
+						<a class="small-logo-typo" href="/">{ MELLOW PIXELS }</a>
+			        	<!-- <img class="small-logo" src="http://mellowpixels.com/wp-content/themes/MellowPixels_2/images/logo_typo_inline.svg"> -->
+					</div>
+					<div class="col-md-8 col-sm-4 col-xs-2">
+						<div class="btn-menu"></div>
+						<nav class="mainnav large-screen"  role="navigation">
+							<div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://mellowpixels.com/about-us/">about us</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://mellowpixels.com/contact-us/">contact us</a></li>
+</ul></div>						</nav><!-- #site-navigation -->	
+					</div>
+				</div>
+				<div class="row">
+					<nav id="mainnav" class="mainnav small-screen col-md-4 col-sm-6 col-xs-12"  role="navigation">
+						<div class="menu-header-menu-container"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://mellowpixels.com/about-us/">about us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://mellowpixels.com/contact-us/">contact us</a></li>
+</ul></div>					</nav><!-- #site-navigation -->
+				</div>
+			</div>
+		</div>
+	</header><!-- #masthead -->
+	<!-- 
+    <div id="slideshow" class="header-slider" data-speed="4000">
+        <div class="slides-container">
+            <div class="slide-item" style="background-image:url(http://mellowpixels.com/wp-content/themes/MellowPixels_2/images/1.jpg);">                        <div class="slide-inner">
+                            <div class="contain animated fadeInRightBig text-slider">
+                                <h2 class="maintitle">Welcome to Sydney</h2>
+                                <p class="subtitle">Feel free to look around</p>
+                            </div>
+                            <a href="#primary" class="roll-button button-slider">Click to begin</a>                        </div>
+                    </div><div class="slide-item" style="background-image:url(http://mellowpixels.com/wp-content/themes/MellowPixels_2/images/2.jpg);">                        <div class="slide-inner">
+                            <div class="contain animated fadeInRightBig text-slider">
+                                <h2 class="maintitle">Ready to begin your journey?</h2>
+                                <p class="subtitle">Click the button below</p>
+                            </div>
+                            <a href="#primary" class="roll-button button-slider">Click to begin</a> 
+                        </div>                   
+                    </div>  
+        </div>  
+            </div>
+
+     -->
+	<div id="fulscreen-wrapper" >
+		<!-- <h1>{{whatever_text}}</h1> -->
+		<img id="front-screen-logo" src="http://mellowpixels.com/wp-content/themes/MellowPixels_2/images/logo_red.svg">
+		<div id="centrall-navigation">
+			<div class="menu-header-menu-container"><ul id="menu-header-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://mellowpixels.com/about-us/">about us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://mellowpixels.com/contact-us/">contact us</a></li>
+</ul></div>		</div>
+	</div>
+	<section class="showreel-section">
+		<iframe class='intro-animation-frame' src='' ></iframe>
+	</section>
+	<div id="content" class="page-wrap">
+		<div class="content-wrapper">
+			
+	<div id="primary" class="fp-content-area">
+		<main id="main" class="site-main" role="main">
+
+			<div class="entry-content">
+									<section class="portfolio-section websites-section">
+<h3>Latest Web Sites</h3>
+<div class="thumb-link-wrapper">
+		<a href="/allianz-website/">
+<div class="thumb-img-wrapper">
+		   <img src="http://mellowpixels.com/wp-content/uploads/2016/12/allianz-thumb.jpg" />
+		</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Allianz Website</span>
+		</div>
+<p></a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/ownster-co-uk-website/">
+<div class="thumb-img-wrapper">
+			<img src="http://mellowpixels.com/wp-content/uploads/2016/12/ownster-thumb.jpg"/>
+		</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Ownster Website</span>
+		</div>
+<p></a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/fitaholic-eu-online-store/">
+<div class="thumb-img-wrapper">
+                       <img src="http://mellowpixels.com/wp-content/uploads/2016/12/fitaholic-thumb.jpg" />
+	</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Fitaholic Online Store Website</span>
+		</div>
+<p></a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/zannarts/">
+<div class="thumb-img-wrapper">
+			<img src="http://mellowpixels.com/wp-content/uploads/2016/12/zannarts.jpg"/>
+		</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Zanna Arts Website</span>
+		</div>
+<p></a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/dimlen/">
+<div class="thumb-img-wrapper">
+			<img src="http://mellowpixels.com/wp-content/uploads/2016/12/dimlen-thumb.jpg"/>
+		</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">DimLen Website</span>
+		</div>
+<p></a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/know-what-you-grow-web-application/">
+<div class="thumb-img-wrapper">
+		<img src="http://mellowpixels.com/wp-content/uploads/2016/12/food-up-front-thumb.jpg"/>
+	</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Food up front Website</span>
+		</div>
+<p></a>
+</div>
+</section>
+<section class="portfolio-section animation-section">
+<h3>Latest Animation</h3>
+<div class="thumb-link-wrapper">
+	<a href="/there-is-a-city-animation/">
+<div class="thumb-img-wrapper">
+		<img src="http://mellowpixels.com/wp-content/uploads/frontThumb.jpg" />
+	</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">There is a city animation</span>
+		</div>
+<p>	</a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/clean-chute-solution-animation/">
+<div class="thumb-img-wrapper">
+		<img src="http://mellowpixels.com/wp-content/uploads/preview_thumb.jpg" />
+	</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">&#8220;Clean Chute Solution&#8221;. Info Animation.</span>
+		</div>
+<p>	</a>
+</div>
+<div class="thumb-link-wrapper">
+	<a href="/bbc-engage-animation/">
+<div class="thumb-img-wrapper">
+		<img src="http://mellowpixels.com/wp-content/uploads/preview_thumb-1.jpg" />
+	</div>
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">BBC Documentary. Animation.</span>
+		</div>
+<p>	</a>
+</div>
+</section>
+<p><!--
+
+<section class="portfolio-section graphic-section">
+
+<h3>Latest Logo Design</h3>
+
+
+
+<div class="thumb-link-wrapper">
+	<a href="">
+<div class="thumb-img-wrapper">
+			<img src="http://mellowpixels.com/wp-content/uploads/2016/12/DimLen.png"/>
+		</div>
+
+
+		
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">Logo compilation</span>
+		</div>
+
+</a>
+</div>
+
+
+</section>
+
+
+
+
+<section class="portfolio-section animation-section">
+
+<h3>Latest Animation</h3>
+
+
+
+<div class="thumb-link-wrapper">
+	<a href="">
+<div class="thumb-img-wrapper">
+		<img src="http://mellowpixels.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-23.41.12.png"/>
+	</div>
+
+
+		
+<div class="short-description-wrapper">
+			<span class="short-descr-middle-wrap">There is a city animation</span>
+		</div>
+
+
+	</a>
+</div>
+
+
+</section>
+
+ --></p>
+							</div><!-- .entry-content -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+			
+		</div>
+	</div><!-- #content -->
+
+	
+    <a class="go-top"><i class="fa fa-angle-up"></i></a>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<img class="decor-top-imp" src="http://mellowpixels.com/wp-content/themes/MellowPixels_2/images/footer_decor.svg">
+		
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://mellowpixels.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201707'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2017Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://mellowpixels.com/wp-content/cache/minify/4b440.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/mellowpixels.com\/wp-admin\/admin-ajax.php","nonce":"66c53ba717","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"http:\/\/mellowpixels.com\/wp-login.php?redirect_to=http%3A%2F%2Fmellowpixels.com%2F","blog_id":"1","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mellowpixels.com/wp-content/cache/minify/428b3.js"></script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201707.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.6',blog:'123924968',post:'24',tz:'0',srv:'mellowpixels.com'} ]);
+	_stq.push([ 'clickTrackerInit', '123924968', '24' ]);
+</script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2202/2207 objects using disk
+Page Caching using disk: enhanced
+Content Delivery Network via N/A
+Minified using disk
+Database Caching 8/13 queries in 0.002 seconds using disk
+
+ Served from: mellowpixels.com @ 2017-02-14 13:38:37 by W3 Total Cache -->

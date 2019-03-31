@@ -1,0 +1,1208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top: "
+			],
+			[
+				"back",
+				"background: "
+			],
+			[
+				"paddin",
+				"padding-bottom: "
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"text",
+				"text-decoration: "
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"the",
+				"theme_path"
+			],
+			[
+				"marg",
+				"margin-top: "
+			],
+			[
+				"ligh",
+				"lighten	Sass-function"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rota",
+				"rotate"
+			],
+			[
+				"rest",
+				"restore"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"self",
+				"self_r"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"head",
+				"header-look"
+			],
+			[
+				"def",
+				"default_surface"
+			],
+			[
+				"main",
+				"main_col_size_rat"
+			],
+			[
+				"optfun",
+				"optFunkOnLoad"
+			],
+			[
+				"opt",
+				"optFunkOnLoad"
+			],
+			[
+				"page_",
+				"page_to_prod_ratio"
+			],
+			[
+				"img",
+				"img_w"
+			],
+			[
+				"ang",
+				"angle"
+			],
+			[
+				"rot",
+				"rotatePoints"
+			],
+			[
+				"temp",
+				"tempX"
+			],
+			[
+				"pox",
+				"pos_x1"
+			],
+			[
+				"posxy",
+				"pos_xy1"
+			],
+			[
+				"img_",
+				"img_h"
+			],
+			[
+				"pos_",
+				"pos_y2"
+			],
+			[
+				"pad",
+				"padding: "
+			],
+			[
+				"col",
+				"color: "
+			],
+			[
+				"center",
+				"centered_content"
+			],
+			[
+				"act",
+				"active_class"
+			],
+			[
+				"change",
+				"changeStep"
+			],
+			[
+				"is",
+				"isMobile"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"h",
+				"hide"
+			],
+			[
+				"templates",
+				"templates_obj"
+			],
+			[
+				"work-",
+				"workdesk-info"
+			],
+			[
+				"work",
+				"workdesk-info"
+			],
+			[
+				"Workd",
+				"workdesk"
+			],
+			[
+				"lig",
+				"lighten	Sass-function"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-green"
+			],
+			[
+				"backgr",
+				"background-color: "
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"templat",
+				"templates_options"
+			],
+			[
+				"wallets",
+				"wallets_from"
+			],
+			[
+				"deg",
+				"degree"
+			],
+			[
+				"border",
+				"border: "
+			],
+			[
+				"templ",
+				"template_inf"
+			],
+			[
+				"mysl_err",
+				"mysql_error"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"jso",
+				"json_encoded_data"
+			],
+			[
+				"occ",
+				"occasions"
+			],
+			[
+				"data",
+				"data_to_save"
+			],
+			[
+				"boxs",
+				"box-sizing: "
+			],
+			[
+				"select",
+				"select_opts"
+			],
+			[
+				"new",
+				"new_val"
+			],
+			[
+				"occasion",
+				"occasions_output_data"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"border-",
+				"border-box"
+			],
+			[
+				"box-s",
+				"box-sizing: "
+			],
+			[
+				"peview",
+				"preview_src"
+			],
+			[
+				"templa",
+				"template_id"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"min",
+				"min-height: "
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"text_",
+				"text_lmargin"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"selected",
+				"selected_cell"
+			],
+			[
+				"cellhelper",
+				"cell-helper"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"bor",
+				"border: "
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"demo",
+				"demo_layer"
+			],
+			[
+				"curr",
+				"current_surface"
+			],
+			[
+				"num",
+				"num_files"
+			],
+			[
+				"dem",
+				"demo_layer"
+			],
+			[
+				"align",
+				"align_l"
+			],
+			[
+				"max",
+				"maxsym"
+			],
+			[
+				"make",
+				"makeTextInputs"
+			],
+			[
+				"onstage",
+				"onstagetext"
+			],
+			[
+				"swit",
+				"switch"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"graph",
+				"graphic_template"
+			],
+			[
+				"default",
+				"default_surface"
+			],
+			[
+				"image",
+				"image-filled"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"active",
+				"active-tab"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"edit",
+				"editable"
+			],
+			[
+				"if",
+				"ifnotun	if typeof != \"undefined\""
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"graphic",
+				"graphic_templates"
+			],
+			[
+				"grap",
+				"graphic_templates"
+			],
+			[
+				"render",
+				"renderTextLayer"
+			],
+			[
+				"date",
+				"date_created"
+			],
+			[
+				"clean",
+				"clean_voucher"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"vouch",
+				"voucher_code"
+			],
+			[
+				"vouc",
+				"voucher_code"
+			],
+			[
+				"cleans",
+				"stringCleanse"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"to",
+				"to_time"
+			],
+			[
+				"from",
+				"from_time"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"gm",
+				"gmail"
+			],
+			[
+				"R",
+				"Riga"
+			],
+			[
+				"E",
+				"Europe"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"Shopping",
+				"ShoppingCartServer"
+			],
+			[
+				"defaul",
+				"default_pic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"Snippet: ",
+				"Snippet: comment_delimiter"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: com",
+				"Snippet: comment_delimiter"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"ft",
+				"FTPSync: Browse"
+			],
+			[
+				"pak",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/logo.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/flower-red.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/flower-green.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/flower-dark.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/flower-blue.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/circle-hollow.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/images/circle-filled.svg",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-includes/nav-menu-template.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels__/header.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/single.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels/wp-content/themes/mellowpixels/page.php",
+		"/Users/dmitryulyanov/Library/Application Support/Yummy FTP/Remote Edits/ftp.zannarts.com Edits/index.php1/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/letmein.php",
+		"/Users/dmitryulyanov/cur/76960927c62ed6c411a7b9a56c17f8cb]",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/transaction.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/menu-toolbar.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/add-product/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/personalize/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/personalize-page.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/php/SharedFunctions.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/occasions.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/WorkDeskSetup.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/cms_add_product_main.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/_header.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/_general-style-config.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/html-include/header.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/OwnsterCanvasClass.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/Utilities.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/general-functions.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/homepage.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/html-include/occasions/select_product_options_content.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/configs/OccasionsConfig.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/valentines-day/personalised-travel-card-holders-landscape/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/add-product-layout.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_customize.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/products/Premium_Lscape_wallet_backup.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/products/Premium_Portrait_wallet_backup.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/personalize-page.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/upload-list.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_customize_backp.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/menu.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/ajaxServer.php",
+		"/Users/dmitryulyanov/Google Drive 2/Finansi/Fitaholic/Docs/Artikel nich da.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_occasions.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/_popup-window.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_homepage.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/valentines-day/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/valentines-day/personalised-travel-card-holders-portrait/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/valentines-day/personalised-notebooks/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/occasions/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/personalised-gifts/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/ScrollClass.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/occasions/valentines-day/personalised-travel-card-holders/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/occasions/personalised-travel-card-holders/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/occasions-manager.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/php/occasions_server/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_occasions_manager.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/our-products.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/page-layout.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/php/ProductServer.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_products_list.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/php/upload_server/UploadHandler.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/php/user-upload-server/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/Finansi/Fitaholic/Docs/Bewertungen.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/checkout_main.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/cells-toolbar.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/ExpandablePanels.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/ShoppingCartServer.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/DataBaseClass.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_vouchers.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/vouchers/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/css2/vouchers_layout.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/checkout/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/email-confirmation-html.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/ipn_listener.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_sales.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/sales/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/Analiz_problem_Checkout.txt",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/Logs/ShoppingCartServer_log",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/information/index.php",
+		"/Users/dmitryulyanov/Library/Application Support/Yummy FTP/Remote Edits/ftp.ownster.co.uk Edits/index.php81/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/information/large-orders/index.php",
+		"/Users/dmitryulyanov/Library/Application Support/Yummy FTP/Remote Edits/ftp.ownster.co.uk Edits/index.php82/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/complete.php",
+		"/Users/dmitryulyanov/Google Drive 2/Finansi/Fitaholic/HTML/cross_promotion.html",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/html-include/footer.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/cart/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/cart-main.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/personalised-gifts/personalised-notebooks/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/personalised-gifts/personalised-travel-card-holders/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/_footer.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/personalised-gifts/.htaccess",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/FileHandler.js",
+		"/Users/dmitryulyanov/Library/Application Support/Yummy FTP/Remote Edits/ftp.ownster.co.uk Edits/main_customize~prev.js/main_customize~prev.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/customization_layout.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/userAccount.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/my-account/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_myaccount.js",
+		"/Users/dmitryulyanov/Library/Application Support/Yummy FTP/Remote Edits/ftp.ownster.co.uk Edits/index.php78/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/manager/products/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/my-account.scss",
+		"/Users/dmitryulyanov/Google Drive 2/Finansi/Fitaholic/HTML/template_snippets.html",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/your-review.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_leave_review.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/your-review/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main_review.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/checkout.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/angular/validation-config.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/form.html",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/payment-complete.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/your-review-style.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/clients-reviews.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/our-products/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/myaccount-style.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/cart.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/login/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/logout/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/signup.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/js/main-signup.js",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/signup/index.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/inc/UserClass.php",
+		"/Users/dmitryulyanov/Google Drive 2/WEBSITES BACKUP/ownster_online_copy/inc/js/Slider.js",
+		"/Users/dmitryulyanov/Google Drive 2/WEBSITES BACKUP/ownster_online_copy/edit.php",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/sass/_general-style-config2.scss",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/assets/css/cart.css",
+		"/Users/dmitryulyanov/Google Drive 2/httpd/ownster_mobile/review/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/dmitryulyanov/Google Drive 2/httpd/melpixels",
+			"/Users/dmitryulyanov/Google Drive 2/httpd/zannarts/art_studio",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".site ",
+			"frontpage-post-content",
+			"site-header",
+			"site-content",
+			".site-header",
+			"site-content",
+			"site-header",
+			"frontpage-post-content",
+			"entry-content",
+			"Posts and pages",
+			"post ",
+			"post",
+			"type-post",
+			".entry-footer",
+			"posts",
+			"post",
+			"10",
+			"1a1a1a",
+			"007acc",
+			"#007acc",
+			"Typography",
+			"menu-sidebar-links-container",
+			".main-navigation",
+			"d1d1d1",
+			".main-navigation",
+			".header-long-line",
+			".main-navig",
+			".main-navigation",
+			"@media",
+			"menu-sidebar-links-container",
+			"li ",
+			"li",
+			"output",
+			"<li",
+			"menu-item-",
+			"primary-menu",
+			"wp_nav_menu",
+			"li",
+			"function wp_nav_menu",
+			"function wp_nav_menu {",
+			"wp_nav_menu",
+			"site-main",
+			"sidebar",
+			"main-navigation",
+			"4%",
+			"primary-menu",
+			"menu-header-menu-container",
+			"site-header-menu",
+			"site-branding",
+			".site-header-menu",
+			"content-area",
+			"site-main",
+			".sidebar",
+			"site-main",
+			"sidebar",
+			"widget_nav_menu",
+			"widget widget_nav_menu",
+			"site-header-menu",
+			"site-header ",
+			"site-header",
+			"header ",
+			"header",
+			"site-header",
+			"main-navigation",
+			"width: 24",
+			"site-header-menu",
+			"site-branding",
+			"site {",
+			"body ",
+			"body",
+			"font-family: Montserrat, \"Helvetica Neue\", sans-serif;",
+			"Typography",
+			"contentCategories",
+			"cleverkidz.php",
+			"cleverkidz",
+			"photolessons",
+			"artstudio.php",
+			"goToGallery",
+			"artstudija",
+			"<ul id=\"secondary_left_menue\">",
+			"<ul id=\"secondary_left_menue\">\n	<li class=\"hr_line\"><hr noshade=\"noshade\" color=\"#2e99a3\" size=\"1\" width=\"172\" /></li>\n   <!-- <li class=\"secondary_menue\"><a href=\"http://zannarts.com/events/\">Блог</a></li> -->\n    <li class=\"secondary_menue\"><a href=\"contacts.php\">Контакты</a></li>\n    <li class=\"secondary_menue\"><a href=\"http://www.zannarts.com\">Creative Art</a></li>\n    <li class=\"secondary_menue\"><a href=\"http://www.commertial.zannarts.com\">Commercial Photography</a></li>\n</ul>",
+			"\"",
+			"current_page_name",
+			"basket_qty",
+			"toggleActive",
+			"maintit",
+			"	<",
+			"<td",
+			"	",
+			"userLogin",
+			"logUserIn",
+			"user_email",
+			"logUserIn",
+			"user",
+			"post",
+			"[d]",
+			"x_pos",
+			"rotate(",
+			"OwnsterCanvas",
+			"canvas_data",
+			"rotate(",
+			"canvas_data",
+			"rotate",
+			"canvas_data",
+			"p.surfaces[sideid].grid.cells[c]",
+			"height",
+			"cell_coord",
+			"c_data.id",
+			"left top",
+			"0px 0px",
+			"draw_cellHandle",
+			"bindCellDrawingEvents",
+			"doneCellDrawing",
+			"bindCellDrawingEvents",
+			"doneCellDrawing",
+			"grid",
+			"c_data.id",
+			"class",
+			"cellstorage",
+			"self",
+			": ",
+			"last_drawn_cell",
+			"left top",
+			"center",
+			"angle",
+			"product.surfaces[surfID()][\"img_\"+dimension]",
+			"spinner",
+			"degree"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"55637C",
+			"artstudio_cat.php",
+			"<?php include \"sidebar_links.php\"; ?>",
+			"{\nconsole.log(\"Premade Width: \", $(\".premade-text\").width(), \"caller: \", arguments.callee.caller.name);",
+			"function\nconsole.log(\"Premade Width: \", $(\".premade-text\").width(), \"caller: \", arguments.callee.caller.name);",
+			"$(\".text-align-radio-butt\")",
+			"input type='radio' class='text-align-radio-butt' name='radio-text-align'",
+			"text_stack",
+			"add texts",
+			"premade-text",
+			".premade_text_stack",
+			"\\n\\n* ",
+			"\"\\n\\n* ",
+			"\"\\n* ",
+			"../Logs/ShoppingCartServer\".date(\"d-m-y\").\".log",
+			"../Logs/ShoppingCartServer.log",
+			"",
+			"$root",
+			"personalised-gifts",
+			".user-files-preview-wrapper",
+			".texts-layer",
+			".grid-helper-frame",
+			".template-grid",
+			".product-other-side",
+			".product-image-container",
+			".product-wrapper",
+			".texts-layer",
+			".grid-helper-frame",
+			".template-grid",
+			".product-other-side",
+			".product-image-container",
+			".product-wrapper",
+			"facebookHandler",
+			"thumbnails/",
+			"\"'\".$",
+			"\"#text-inputs-wrapper\"+postfix",
+			"'#colorSelector'+postfix)",
+			"\"#font-size-select\"+postfix",
+			"\"#font-family-select\"+postfix",
+			"\"#colorSelector\"+postfix",
+			".zoomout-butt",
+			".zoomin-butt",
+			".rotate-right-butt",
+			".rotate-left-butt",
+			".upload-progress-page",
+			"polaroid-green.png",
+			".options-container",
+			"class=\"upload-page-wrapper\"",
+			"class=\"graphic-thumbnails-container\"",
+			"class=\"graphic-templates",
+			".graphic-templates",
+			".graphic-thumbnails-container",
+			".layout-templates",
+			"class=\"template-thumbnails-container\"",
+			"class=\"layout-templates",
+			".work-desk",
+			".back-next-butt-wrapper",
+			"class='basket-qty'",
+			"class=\"basq-qty-wrapper\"",
+			".redeem_input",
+			"class=\"redeem_input\"",
+			".redeem_butt",
+			"class=\"redeem_butt\"",
+			".pay_butt",
+			"class=\"pay_butt\"",
+			"class=\"country_cell\"",
+			"class=\"load_from_address_butt\"",
+			".next-button",
+			".back-button",
+			"class='next-button'",
+			"class='back-button'",
+			"@media #{$media-all-xxs}",
+			"//@media #{$media-tablet}",
+			"switchMenu",
+			"switchMenu(\"first upload menu\");",
+			"loadImage2Cell",
+			"onFilesReady",
+			"(file)",
+			"file",
+			"onFilesReady",
+			"select layout",
+			"$header-background-color",
+			"$header-text-color",
+			"mob-device-block-behaviour",
+			" ",
+			"max-device-width: 980px",
+			"graphic-templates-preview-window",
+			"handleOptioanlImge",
+			"$new_cell",
+			"wd.",
+			"image",
+			"cell_data",
+			"d.cell_data",
+			"d.clicked_img",
+			"d.image",
+			"fff",
+			"015b7e",
+			"\"../../",
+			"redirectToPage",
+			"\"<",
+			"'",
+			"",
+			"<",
+			"<a style='color: #333; font-weight: bold;'",
+			"<h2 style='font-size: 100%; padding: 6px; margin:0px;'",
+			"'",
+			"data",
+			"session",
+			"#font-family-select .dd-options",
+			"; }",
+			".dd-options li:nth-child(6) { font-family",
+			".ownster-intro-text",
+			".banner-text",
+			"$(this)",
+			"$(clicked_img)",
+			"(this)",
+			"\"../assets/",
+			"\"../inc/",
+			"\"../layoutimg2/",
+			"'../layoutimg2/",
+			"../inc/",
+			"../layoutimg2/",
+			"num_s_tot",
+			"\"../layoutimg2",
+			"\"../inc/",
+			"\"../inc/ajaxServer.php\"",
+			"\"../layoutimg2/",
+			"'../layoutimg2/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 169.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"layout",
+				"assets/css/layout.css"
+			],
+			[
+				"popup",
+				"assets/css/popup-hints-style.css"
+			],
+			[
+				"heade",
+				"assets/css/header-style.css"
+			],
+			[
+				"la",
+				"css2/layout.css"
+			],
+			[
+				"",
+				"/Applications/MAMP/htdocs/ownster/assets/js/main_customize.js"
+			],
+			[
+				"jquery",
+				"assets/css/jquery-ui.css"
+			],
+			[
+				"edit",
+				"inc/spry_assets/editmode.js"
+			],
+			[
+				"menu",
+				"inc/spry_assets/menu.js"
+			],
+			[
+				"haf",
+				"privatkunden/produkte/haftpflicht.html"
+			],
+			[
+				"pub",
+				"inc/spry_assets/public_funktions_holger_rettschlag.js"
+			],
+			[
+				"slid",
+				"css/slideshow.css"
+			],
+			[
+				"text",
+				"css/texts_formating.css"
+			],
+			[
+				"misc",
+				"css/misc_page_elements.css"
+			],
+			[
+				"allia",
+				"css/allianz_general_layout.css"
+			],
+			[
+				"main",
+				"inc/spry_assets/main.js"
+			],
+			[
+				"publ",
+				"inc/spry_assets/public_funktions_holger_rettschlag.js"
+			],
+			[
+				"haft",
+				"privatkunden/produkte/haftpflicht.html"
+			],
+			[
+				"auto",
+				"privatkunden/produkte/autoversicherung.html"
+			],
+			[
+				"data",
+				"inc/php/DataBaseClass.php"
+			],
+			[
+				"cms",
+				"css/cms_objects.css"
+			],
+			[
+				"mell",
+				"inc/spry_assets/MellowPixels_Utilities.js"
+			],
+			[
+				"edit_",
+				"cms/edit_slides.php"
+			],
+			[
+				"texts_formating",
+				"css/texts_formating.css"
+			],
+			[
+				"edi",
+				"inc/spry_assets/editmode.js"
+			],
+			[
+				"te",
+				"/Applications/MAMP/htdocs/html5_tests/test.js"
+			],
+			[
+				"index.html",
+				"/Applications/MAMP/htdocs/html5_tests/index2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/magento-2.0.2-2/apps/magento/htdocs/Fitaholic2.0_Magento.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true
+}
